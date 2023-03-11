@@ -12,7 +12,7 @@
   align-items: center;
   width: 100%;
   max-width: 330px;
-  background-color: #ffffff;
+  background-color: #ebedee;
   border-radius: 50px;
   overflow: hidden;
   margin-top: 5px;
@@ -36,6 +36,7 @@
 }
 
 .input {
+  background-color: #ebedee;
   display: inline-block;
   width: 100%;
   font: inherit;
